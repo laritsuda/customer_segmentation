@@ -45,7 +45,7 @@ The final segmentation has four customer segments:
 2. Run the notebook top to bottom. The data is downloaded automatically with the `ucimlrepo` package.
 
 ## Repository contents
-- `[notebook-file-name].ipynb`: the full analysis
+- `Customer_segmentation_of_Wholesale_clients_with_K_means.ipynb`: the full analysis
 
 ## Data citation
 Cardoso, M. (2013). *Wholesale customers* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5030X
