@@ -20,8 +20,11 @@ Segment wholesale clients by their purchasing behaviour, and suggest actions for
 5. **Evaluation:** silhouette, Davies-Bouldin, Calinski-Harabasz, Adjusted Rand Index, and a stability check with different random seeds.
 
 ## Results
-The final segmentation has four customer segments:
+These are the resulting PCA images:
+![PCA of all clients](images/pca_clusters_full.png)
+![PCA of Retail clients](images/pca_clusters_retail.png)
 
+The final segmentation has four customer segments:
 | Segment | Clients | Profile (relative to the Retail average) |
 |---|---|---|
 | Horeca | 298 | Hotels, restaurants and cafés, defined by the `Channel` label |
